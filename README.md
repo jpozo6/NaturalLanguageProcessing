@@ -4,6 +4,6 @@ A classification task has been performed. The dataset is made of tweets about th
 
 ### How to run the code
 
-The code uploaded is a jupyter-notebook. Simply clone the repository and install the requirements.txt with the command `pip install -r requirements.txt` and execute the notebook.
+The code uploaded is a jupyter-notebook you can find in the file Project.ipynb. Simply clone the repository and install the requirements.txt with the command `pip install -r requirements.txt` and execute the notebook.
 
 If you don't want to download the notebook, you can access to the file and see the different steps, as it is already executed.
